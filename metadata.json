@@ -1,0 +1,5 @@
+{
+  "name": "SnapTest",
+  "description": "Okamžitý generátor testov z fotiek učebníc pomocou AI.",
+  "requestFramePermissions": ["camera"]
+}
